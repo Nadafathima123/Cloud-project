@@ -32,14 +32,6 @@ A full step-by-step breakdown is included in the [📄 PDF Documentation](cloud%
 
 ---
 
-## 📝 Assignment Feedback
-
-> Github link provided.  
-> Student identity is clear and the development timeline present  
-> **_3.5 points_**
-
-![Grading Feedback](grading-feedback.png)
-
 ---
 
 ## 📎 Additional Files
