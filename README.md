@@ -30,6 +30,15 @@ The project was developed in stages:
 
 A full step-by-step breakdown is included in the [📄 PDF Documentation](cloud%20proj.pdf).
 
+
+## 🎥 Video Explainer
+
+Watch the walkthrough here: [Click to watch on Loom][https://www.loom.com/share/1f97af75802c435697d0c03f08255dc3?sid=7b3f3103-2392-4872-b9df-ad39d89d8fc2]
+
+
+
+
+
 ---
 
 ---
